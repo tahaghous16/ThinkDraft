@@ -12,7 +12,7 @@ import facebook_icon from "./facebook_icon.svg";
 import googleplus_icon from "./googleplus_icon.svg";
 import twitter_icon from "./twitter_icon.svg";
 import newLogo from "./Logo.png";
-import logo from "./logo.svg";
+
 import arrow from "./arrow.svg";
 import logo_light from "./logo_light.svg";
 import blog_icon from "./blog_icon.png";
@@ -39,7 +39,6 @@ export const assets = {
   googleplus_icon,
   twitter_icon,
   newLogo,
-  logo,
   arrow,
   logo_light,
   blog_icon,

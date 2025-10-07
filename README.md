@@ -12,7 +12,7 @@ The app also includes an **admin dashboard** for managing blogs and reviewing co
 
 ---
 
-## ⚙️ Tech Stack
+## Tech Stack
 
 **Client:**
 
@@ -39,7 +39,7 @@ The app also includes an **admin dashboard** for managing blogs and reviewing co
 
 ---
 
-## 🧱 Project Structure
+## Project Structure
 
 ```
 client/          → React frontend (Vite)
@@ -56,7 +56,7 @@ server/          → Node + Express API
 
 ---
 
-## 💡 What I Learned
+## What I Learned
 
 * How to **connect frontend and backend** in a MERN stack project
 * How to **integrate Google Gemini API** for AI-based content generation
@@ -65,7 +65,7 @@ server/          → Node + Express API
 
 ---
 
-## 🚀 Conclusion
+## Conclusion
 
 **ThinkDraft** makes blogging easier by combining **AI** and a **clean writing interface**.
 It’s built with the **MERN stack** and integrates **Google Gemini** to help users write creative content quickly and efficiently.
